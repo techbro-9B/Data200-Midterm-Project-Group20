@@ -1,4 +1,4 @@
-# Data200-Midterm-Project-Group20
+# Data200-Data-Analysis-Projects-Group20
 
 by: Matie G, Matie V, Kim K, Sidon M & Lloyd N. 
 
